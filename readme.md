@@ -11,8 +11,8 @@ Repositorio donde guardo código de competencias de programación.
 ### Java
 Compilar y ejecutar la clase mediante JVM.
 
-  javac Solution.java
-  java Solution < input.txt > output.txt
+	javac Solution.java
+	java Solution < input.txt > output.txt
 
 ### C++
 Compilar y ejecutar el archivo ejecutable.
@@ -23,4 +23,4 @@ Compilar y ejecutar el archivo ejecutable.
 ### JavaScript
 Correr desde un interprete de JS (como Node).
 
-  node solution.js < input.txt > output.txt
+	node solution.js < input.txt > output.txt
