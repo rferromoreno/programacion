@@ -1,0 +1,16 @@
+*.txt
+*.out
+*.in
+*.log
+*.class
+
+*.exe
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.vscode
